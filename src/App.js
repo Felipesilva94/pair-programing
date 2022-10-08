@@ -1,12 +1,12 @@
 import React  from 'react' 
+import { GlobalStyle } from './Global/GlobalStyle'
+import Main from './Pages/Main'
 
 export default function App (){
   return(
- <>
- <h1>
-Olá 
-
- </h1>
- </>
+    <>
+    <GlobalStyle/>
+    <Main/>
+    </>
   )
 }
