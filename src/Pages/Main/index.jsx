@@ -6,8 +6,7 @@ export default function Main (){
     <>
     <main>
         <Subs/>
-    </main>
-    
+    </main>    
     </>
   )
 }
