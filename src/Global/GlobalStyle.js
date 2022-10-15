@@ -16,5 +16,6 @@ export const GlobalStyle = createGlobalStyle`
         --fw-400: 400;
         //
         --bg-one: #FFFFFF;
+        --bg-two: #F2F4F1;
     }
 `;
