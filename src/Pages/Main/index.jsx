@@ -1,5 +1,6 @@
 import React  from 'react' 
 import Recipes from '../../components/recipes'
+import About from '../../components/about'
 import Subs from '../../components/subs'
 
 export default function Main (){
@@ -7,7 +8,8 @@ export default function Main (){
     <>
     <main>
         <Recipes/>
-        {/* <Subs/> */}
+        <About />
+        <Subs/>
     </main>    
     </>
   )

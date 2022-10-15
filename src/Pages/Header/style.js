@@ -89,6 +89,7 @@ export const Txt = styled.div`
     }
 
     @media screen and (max-width:48em){
-        margin-block: auto 20em;
+        margin-block: auto;
+        padding-bottom: 4rem;
     }
 `;

@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.section`  
     max-width: 1920px;
+    margin: 0 auto;
     padding: 10rem 0;
     display: flex;
     flex-direction: column;
