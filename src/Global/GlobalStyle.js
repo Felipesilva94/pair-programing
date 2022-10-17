@@ -11,5 +11,11 @@ export const GlobalStyle = createGlobalStyle`
     :root{
         --ff-one: 'Montserrat', sans-serif; 
         --ff-footer: 'Roboto', sans-serif;
+        //
+        --fw-600: 600;
+        --fw-400: 400;
+        //
+        --bg-one: #FFFFFF;
+        --bg-two: #F2F4F1;
     }
 `;
